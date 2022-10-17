@@ -13,13 +13,13 @@
 }
 #left {
     background-color: darkcyan;
-    width: 300px;
+    max-width: 300px;
     min-height: 100vh;
     float: left;
 }
 #right {
     background-color: darkkhaki;
-    width: 300px;
-    float: right;
+    max-width: 300px;
     min-height: 100vh;
+    float: right;
 }
